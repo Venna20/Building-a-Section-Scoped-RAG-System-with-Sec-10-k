@@ -116,12 +116,6 @@ OUTPUT_DIR = Path("/content/drive/MyDrive/SEC-10K-2024-ITEMS")
 
 3. Run all cells in order (Steps 0–11).
 
-> **Note:** If resuming a session, Steps 5–8 can be skipped by loading saved artifacts:
-> - `embeddings.npy` — precomputed embedding matrix
-> - `processed_chunks.csv` — chunked corpus
-> - `domain_qa.csv` — RAG query results
-> - `df_ragas_results.csv` — RAGAS evaluation scores
-
 ---
 
 ## Retrieval Design Decisions
