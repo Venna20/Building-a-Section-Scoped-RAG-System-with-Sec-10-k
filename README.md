@@ -18,10 +18,12 @@ Focusing on these items keeps the vector index dense with strategic and risk-ori
 
 ---
 ## Repository Structure
-
-├── AD698_rag_notebook.ipynb        # Main notebook — full pipeline (Steps 0–11)
-├── report.pdf                      # Project report with methodology, results, and analysis
-└── README.md                       # This file
+```
+📂 Building-a-Section-Scoped-RAG-System-with-Sec-10-k/
+├── 📄 README.md
+├── 📄 AD698_rag_notebook.ipynb            # Main notebook — full pipeline (Steps 0–11)
+└── 📄 AD698 Final Project Report.docx     # Project report with methodology, results, and analysis
+```
 
 ## Pipeline Architecture
 
