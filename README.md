@@ -17,6 +17,11 @@ This project builds an end-to-end RAG system scoped to three SEC 10-K items most
 Focusing on these items keeps the vector index dense with strategic and risk-oriented language, preventing noise from boilerplate legal text, financial tables, and exhibits from polluting retrieval results.
 
 ---
+## Repository Structure
+
+├── AD698_rag_notebook.ipynb        # Main notebook — full pipeline (Steps 0–11)
+├── report.pdf                      # Project report with methodology, results, and analysis
+└── README.md                       # This file
 
 ## Pipeline Architecture
 
